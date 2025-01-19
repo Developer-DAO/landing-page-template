@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom hover effects */
+@layer components {
+  .hover-underline {
+    @apply relative;
+  }
+
+  .hover-underline::after {
+    @apply content-[''] bg-current absolute w-0 h-0.5 left-0 -bottom-1 transition-all duration-300;
+  }
+
+  .hover-underline:hover::after {
+    @apply w-full;
+  }
+
+  .hover-grow {
+    @apply transition-transform duration-300 ease-in-out;
+  }
+
+  .hover-grow:hover {
+    @apply transform scale-105;
+  }
+
+  .hover-glow {
+    @apply transition-all duration-300 ease-in-out;
+  }
+
+  .hover-glow:hover {
+    @apply shadow-lg brightness-110;
+  }
+
+  .hover-slide {
+    @apply relative overflow-hidden;
+  }
+
+  .hover-slide::after {
+    @apply content-[''] absolute top-0 left-0 w-full h-full bg-white opacity-0 transition-all duration-300 ease-in-out;
+  }
+
+  .hover-slide:hover::after {
+    @apply opacity-20 transform -translate-x-full;
+  }
+
+  .hover-pulse-glow {
+    @apply transition-all duration-300 ease-in-out;
+  }
+
+  .hover-pulse-glow:hover {
+    @apply shadow-lg brightness-110;
+    animation: pulse-glow 1.5s infinite;
+  }
+
+  @keyframes pulse-glow {
+    0% {
+      box-shadow: 0 0 0 0 rgba(251, 191, 36, 0.7);
+    }
+    70% {
+      box-shadow: 0 0 0 10px rgba(251, 191, 36, 0);
+    }
+    100% {
+      box-shadow: 0 0 0 0 rgba(251, 191, 36, 0);
+    }
+  }
+}

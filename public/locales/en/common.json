@@ -1,0 +1,126 @@
+{
+  "siteTitle": "Your Site Name - Modern Web Template",
+  "homeTitle": "Home",
+  "siteName": "Your Site Name",
+  "siteDescription": "A modern, flexible template for your next web project",
+  "siteKeywords": "podcast, episodes, development, technology, interviews, learning, web3, blockchain, web3 development, blockchain development, web3 technology, blockchain technology, web3 podcast, blockchain podcast, web3 interviews, blockchain interviews, ethereum, solana, bitcoin, arbitrum, base, optimism, defi, web3 defi, blockchain defi, nft, web3 nft, blockchain nft, gamefi, socialfi, creator economy, web3 gamefi, blockchain gamefi, web3 socialfi, blockchain socialfi, web3 creator economy, blockchain creator economy, web3 developer, blockchain developer",
+
+  "home": "Home",
+  "about": "About",
+  "blog": "Blog",
+  "podcast": "Podcast",
+  "contact": "Contact",
+  "callToAction": "Get Started",
+
+  "heroHeadline": "Build Something Amazing",
+  "heroSubheadline": "Start your journey with our modern web template",
+  "ctaPrimaryButton": "Get Started Now",
+  "ctaSecondaryButton": "Learn More",
+
+  "footerTagline": "A web3 cultural staple giving builders and founders a stage to showcase what they've built",
+  "allRightsReserved": "All rights reserved",
+
+  "readMore": "Read More",
+  "publishedOn": "Published on",
+  "author": "Author",
+  "backToBlog": "Back to Blog",
+
+  "trustedBy": "We've hosted some of the best in the industry",
+
+  "error404Title": "404 - Page Not Found",
+  "error404Description": "Oops! The page you're looking for doesn't exist.",
+  "backToHome": "Back to Home",
+
+  "developerDaoFoundation": "Developer DAO Foundation",
+
+  "featuresTitle": "Why Choose Us",
+  "featuresSubtitle": "Discover what makes our platform unique",
+  "feature1Title": "Lightning Fast",
+  "feature1Description": "Built with performance in mind, ensuring your site loads quickly and efficiently",
+  "feature2Title": "Highly Flexible",
+  "feature2Description": "Customize every aspect to match your brand and requirements",
+  "feature3Title": "Scale with Ease",
+  "feature3Description": "Grow your platform without worrying about technical limitations",
+
+  "showcaseTitle": "Powerful Features",
+  "showcaseDescription": "Everything you need to build modern web applications",
+  "showcasePoint1": "Modern tech stack with Next.js and TypeScript",
+  "showcasePoint2": "Responsive design that works on all devices",
+  "showcasePoint3": "Built-in SEO and performance optimization",
+
+  "trustedByTitle": "Trusted by Industry Leaders",
+  "trustedByDescription": "Join thousands of companies already using our platform",
+
+  "testimonialsTitle": "What Our Users Say",
+  "testimonialsSubtitle": "Don't just take our word for it",
+  "testimonial1Name": "Sarah Johnson",
+  "testimonial1Title": "CTO at TechCorp",
+  "testimonial1Text": "This platform has transformed how we build and deploy our web applications. The speed and flexibility are unmatched.",
+  "testimonial2Name": "Michael Chen",
+  "testimonial2Title": "Lead Developer",
+  "testimonial2Text": "The developer experience is fantastic. Everything is well-documented and just works out of the box.",
+  "testimonial3Name": "Emily Rodriguez",
+  "testimonial3Title": "Product Manager",
+  "testimonial3Text": "We've seen a significant improvement in our team's productivity since adopting this platform.",
+
+  "faqTitle": "Frequently Asked Questions",
+  "faqSubtitle": "Everything you need to know",
+  "faq1Question": "What makes this platform different?",
+  "faq1Answer": "Our platform combines modern technology with ease of use, providing you with the best of both worlds.",
+  "faq2Question": "How easy is it to get started?",
+  "faq2Answer": "You can be up and running in minutes with our simple setup process and comprehensive documentation.",
+  "faq3Question": "What kind of support do you offer?",
+  "faq3Answer": "We provide 24/7 technical support and regular updates to ensure your success.",
+  "faq4Question": "Can I customize everything?",
+  "faq4Answer": "Yes, every aspect of the platform is customizable to match your specific needs.",
+
+  "newsletterTitle": "Stay Updated",
+  "newsletterDescription": "Get the latest updates and news directly in your inbox",
+  "emailPlaceholder": "Enter your email address",
+  "subscribe": "Subscribe",
+
+  "ctaTitle": "Ready to Get Started?",
+  "ctaDescription": "Join thousands of satisfied users and start building your next project today",
+
+  "aboutPageTitle": "About Our Platform",
+  "aboutPageDescription": "Learn about our mission and vision",
+
+  "aboutHeroTitle": "Our Mission",
+  "aboutHeroDescription": "Building the future of web development with modern tools and technologies",
+
+  "productOverviewTitle": "What We Do",
+  "productOverviewDescription": "We provide developers and teams with the tools they need to build exceptional web applications",
+  "productPoint1": "Modern development workflow with best practices built-in",
+  "productPoint2": "Enterprise-grade security and scalability",
+  "productPoint3": "Continuous updates and improvements",
+
+  "originStoryTitle": "Our Story",
+  "originStoryParagraph1": "Founded with a vision to simplify web development, we set out to create a platform that combines power with simplicity.",
+  "originStoryParagraph2": "Through years of experience in building web applications, we identified the common challenges developers face and built solutions to address them.",
+  "originStoryParagraph3": "Today, we're proud to help developers and companies around the world build better web applications faster.",
+
+  "visionTitle": "Our Vision",
+  "visionDescription": "We're building the future of web development",
+  "visionPoint1Title": "Innovation",
+  "visionPoint1Description": "Constantly pushing the boundaries of what's possible",
+  "visionPoint2Title": "Simplicity",
+  "visionPoint2Description": "Making complex technologies accessible to everyone",
+  "visionPoint3Title": "Community",
+  "visionPoint3Description": "Building a strong ecosystem of developers and partners",
+
+  "roadmapTitle": "Our Roadmap",
+  "roadmapQ1Title": "Enhanced Developer Tools",
+  "roadmapQ1Description": "Introducing new developer tools and improving existing ones",
+  "roadmapQ2Title": "Advanced Analytics",
+  "roadmapQ2Description": "Launching comprehensive analytics and monitoring solutions",
+  "roadmapQ3Title": "AI Integration",
+  "roadmapQ3Description": "Implementing AI-powered features and optimizations",
+  "roadmapQ4Title": "Global Expansion",
+  "roadmapQ4Description": "Expanding our services to new regions and markets",
+
+  "learnMore": "Learn More",
+  "viewDocs": "View Documentation",
+  "viewExamples": "View Examples",
+  "getStartedNow": "Get Started Now",
+  "exploreFeatures": "Explore Features"
+}
